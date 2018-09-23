@@ -6,4 +6,6 @@ When your new Metrics account is available, 2 tokens are crafted on your account
 
 Firstly, take the write one.
 
+and store it
 
+`export WRITE='YOUR_TOKEN'`
